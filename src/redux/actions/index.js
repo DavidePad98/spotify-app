@@ -2,7 +2,7 @@
 export const ROCK_SONGS = "ROCK_SONGS";
 export const POP_SONGS = "POP_SONGS";
 export const HIPPOP_SONGS = "HIPPOP_SONGS";
-// export const CARD_SELECTED = "CARD_SELECTED";
+export const CARD_SELECTED = "CARD_SELECTED";
 export const ADD_TO_FAV = "ADD_TO_FAV";
 
 export const addToFavAction = (cardSelected) => {
